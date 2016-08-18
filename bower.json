@@ -1,0 +1,17 @@
+{
+    "name": "ribeye-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/ribeye-bower.git"
+    },
+    "description": "Ribeye font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
